@@ -1,9 +1,3 @@
-"""
-This experiment is not in the paper.
-However, I wrote it after submission to verify the theoretical results regarding Ridge.
-In particular, we wish to verify Figs. 3a and 3b.
-"""
-
 import os
 from tqdm import tqdm
 import numpy as np

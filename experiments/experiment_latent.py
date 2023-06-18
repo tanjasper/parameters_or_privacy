@@ -37,7 +37,7 @@ ps = np.array([10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 230, 250, 270, 
                700, 850, 1000, 1250, 1500, 1750, 2000, 2500, 3000, 4000, 5000, 6000, 8000])
 sigma = 1  # noise std
 bin_width = 0.1
-num_z1s = 100
+num_z1s = 20
 fixed_W = True
 visualize_hists = False
 save_samples = True

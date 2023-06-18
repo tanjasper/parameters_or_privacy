@@ -4,8 +4,6 @@ However, I wrote it after submission to verify the theoretical results regarding
 In particular, we wish to verify Figs. 3a and 3b.
 """
 
-""" Linear regression on Gaussian data -- distributions are simulated """
-
 import os
 from tqdm import tqdm
 import numpy as np

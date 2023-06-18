@@ -35,7 +35,7 @@ ps = np.array([105, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200,
                210, 220, 230, 240, 250, 275, 300, 325, 350, 400, 500,
                600, 800, 1000, 1250, 1500, 2000, 3000])
 sigma = 1  # noise std
-num_z1s = 100
+num_z1s = 20
 num_procs = 8
 
 save_dir = os.path.join('data/experiment1', f'n{n}_D{D}_sigma{sigma}')
